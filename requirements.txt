@@ -1,0 +1,36 @@
+# ==========================================
+# requirements.txt - Movie Recommender System
+# Đồ án 2 - Trường ĐH Mỏ - Địa Chất
+# ==========================================
+
+# --- Xử lý dữ liệu ---
+pandas>=2.0.0
+numpy>=1.24.0
+
+# --- Trực quan hóa ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# --- Học máy & Hệ thống gợi ý ---
+scikit-learn>=1.3.0
+scikit-surprise>=1.1.3     # Thư viện Surprise cho Collaborative Filtering (SVD)
+scipy>=1.10.0              # Ma trận thưa CSR
+
+# --- Xử lý ngôn ngữ tự nhiên ---
+nltk>=3.8.0
+
+# --- Giao diện web ---
+streamlit>=1.28.0
+
+# --- Kết nối API ---
+requests>=2.31.0
+
+# --- Tiện ích ---
+tqdm>=4.65.0               # Thanh tiến trình
+python-dotenv>=1.0.0       # Quản lý biến môi trường (.env)
+joblib>=1.3.0              # Lưu/tải mô hình
+pillow>=10.0.0             # Xử lý ảnh poster
+
+# --- Notebook ---
+jupyter>=1.0.0
+ipykernel>=6.25.0
