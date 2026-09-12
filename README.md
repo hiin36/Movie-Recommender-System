@@ -10,10 +10,10 @@
 
 | Họ và tên | MSV | Lớp | Vai trò |
 |-----------|-----|-----|---------|
-| Trần Hải Yến | 2121050840 | DCCTDH67A | Trưởng nhóm |
-| Nguyễn Thế Trung | 2121050002 | DCCTDH67A | Thành viên |
-| Nguyễn Mạnh Định | 2121050003 | DCCTDH67A | Thành viên |
-| Nguyễn Trung Hiếu | 2121050004 | DCCTDH67A | Thành viên |
+| Trần Hải Yến | 2221050840 | DCCTDH67A | Trưởng nhóm |
+| Nguyễn Thế Trung | 2221050 | DCCTDH67A | Thành viên |
+| Nguyễn Mạnh Định | 2221050 | DCCTDH67A | Thành viên |
+| Nguyễn Trung Hiếu | 2221050 | DCCTDH67A | Thành viên |
 
 ---
 
